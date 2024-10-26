@@ -10,6 +10,7 @@ This project includes a responsive data table component built with next and Mate
    
 2.  **Install dependencies**: To install the necessary dependencies for the project, run the following command:
     ```bash
+    cd load-page
     npm install
 
 3. **Run the application**: To start the development server, use the following command:
